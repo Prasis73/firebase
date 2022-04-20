@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789176369695",
+    "project_id": "nepsathi",
+    "storage_bucket": "nepsathi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789176369695:android:73c94097a6edeb3d7f0b2a",
+        "android_client_info": {
+          "package_name": "com.example.nepsathi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789176369695-hk65siko0p41tn6dg5siqqq7cn2tndut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-2k9xcyWJpl6EdF-8jBUf9zzI-uwKjJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789176369695-hk65siko0p41tn6dg5siqqq7cn2tndut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
